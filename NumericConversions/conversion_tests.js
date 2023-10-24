@@ -2,7 +2,7 @@
 
 // Description: This script tests various numeric 
 //              conversion techniques
-// Author: Lawrence T. Newprogrammer
+// Author: Daisy G. Newprogrammer
 
 // var a = " 101.1 ";
 // var b = "55";
